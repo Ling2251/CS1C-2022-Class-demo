@@ -5,6 +5,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello" << endl
+    cout << "Hello this is a test file. ";
     return 0;
 }
